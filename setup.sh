@@ -19,5 +19,6 @@ make; make install
 #
 # {32} for 32 cores CPU
 # {36} for 80 cores CPU
+# {52} ?
 #
-sudo ./src/openocd -s tcl -c "set CORELIST_S0 {36}" -f openocd.qs_1s_sil.cfg
+sudo ./src/openocd -s tcl -c "set CORELIST_S0 {32 36 52}" -f openocd.qs_1s_sil.cfg
