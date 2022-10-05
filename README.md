@@ -7,9 +7,12 @@
 
 * Ubuntu 20.04 installed on your host system
 
-
-
 #### Connection between JTAG debugger and the connector:
+**IMPORTANT Note**:
+OpenOCD circuit design would be different on A1 and A2 hardware (how to identify your hardware? please see [this page](https://www.ipi.wiki/pages/comhpc-docs?page=firmware_A1vsA2.html) for more details)
+
+The reworked procedure is a must on OpenOCD circuit of A1 hardware. Please kindly have a request to here (https://www.ipi.wiki/community/forum/hardware) for the technical support.
+
 
 <img src="https://user-images.githubusercontent.com/48880474/194017397-78b1e935-e996-4237-b294-50a25608eace.png" width="400">
 
