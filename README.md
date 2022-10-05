@@ -26,7 +26,7 @@ The reworked procedure is a must on OpenOCD circuit of A1 hardware. Please kindl
 sudo ./src/openocd -s tcl -c "set CORELIST_S0 {32 36 52}" -f openocd.qs_1s_sil.cfg” in the “ampere-openocd
 ```
 
-3. It is working correctly when you see the follwoing message: 
+3. It is working correctly when you see the follwoing messages: 
 <img src="https://user-images.githubusercontent.com/48880474/194020595-c46a29c6-76cf-4f60-9917-a5e231661abb.png" width="500">
 
  
