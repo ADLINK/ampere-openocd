@@ -1,4 +1,4 @@
-## This procedure guides you how to uee JTAG on AVA/AADP system
+## This procedure guides you how to use JTAG on AVA/AADP system
 
 #### Prerequisites
 * prepare the JTAG Debugger:
