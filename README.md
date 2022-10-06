@@ -18,7 +18,7 @@ The reworked procedure is a must on OpenOCD circuit of A1 hardware. Please kindl
 
 #### Here is the steps:
 
-1. Download and execute [this script](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/COMHPC/AVA_AADP/JTAG/OpenOCD.sh) on your host. It helps to clone the repository of Ampere OpenOCD source and then be built up into the binary. 
+1. Download and execute [this script](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/COMHPC/AVA_AADP/JTAG/setup.sh) on your host. It helps to clone the repository of Ampere OpenOCD source and then be built up into the binary. 
 
 2. Enter the following command to start the OpenOCD service
 
