@@ -20,6 +20,8 @@ The reworked procedure is a must on OpenOCD circuit of A1 hardware. Please kindl
 
 1. Download and execute [this script](https://hq0epm0west0us0storage.blob.core.windows.net/$web/public/COMHPC/AVA_AADP/JTAG/setup.sh) on your host. It helps to clone the repository of Ampere OpenOCD source and then be built up into the binary. 
 
+**Note: our change is in the adlink branch**
+
 2. Enter the following command to start the OpenOCD service
 
 ```
